@@ -13,8 +13,8 @@ function AddIssue() {
         <label>
           Assign To
           <select name="forDev" id="forDev">
-            <option value="Ron">Ron</option>
-            <option value="Morten">Morten</option>
+            <option value="Ania">Ron</option>
+            <option value="Tyren">Morten</option>
             <option value="Sara">Sara</option>
             <option value="Divyansh">Divyansh</option>
           </select>
