@@ -1,3 +1,5 @@
+I created this app to allow my team of Devs to track our project bugs. You can click from a list and login. Then you can create a bug report with a description and list it as loww priority to critical.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
